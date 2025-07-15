@@ -55,6 +55,9 @@ MONGO_URI=your_mongodb_atlas_connection_string
 
 > Replace `your_mongodb_atlas_connection_string` with your database password
 
+**After your cluster is ready, click "Database Access" --> Click “+ Add New Database User”
+**Then allow Network Access
+
 ### Step 4: Run the backend server
 
 ```bash
