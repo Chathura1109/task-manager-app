@@ -50,13 +50,13 @@ PORT=5000
 MONGO_URI=your_mongodb_atlas_connection_string
 ```
 
-**Create a Free MongoDB Atlas Account
-**Create a Free Tier Cluster --> Click "Connect" -->Copy the connection string
+Create a Free MongoDB Atlas Account
+Create a Free Tier Cluster --> Click "Connect" --> Copy the connection string
 
 > Replace `your_mongodb_atlas_connection_string` with your database password
 
-**After your cluster is ready, click "Database Access" --> Click “+ Add New Database User”
-**Then allow Network Access
+After your cluster is ready, click "Database Access" --> Click “+ Add New Database User”
+Then allow Network Access
 
 ### Step 4: Run the backend server
 
